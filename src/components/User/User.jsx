@@ -7,7 +7,6 @@ const User = ({user}) => {
         padding:'10px',
         margin : '10px',
         borderRadius : '15px',
-
     }
     return (
         <div style={userStyle}>
